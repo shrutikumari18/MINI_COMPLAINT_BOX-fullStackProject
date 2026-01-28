@@ -1,1 +1,1 @@
-# MINI-COMPLAINT-BOX-fullStackProject
+# MINI_COMPLAINT_BOX-fullStackProject
