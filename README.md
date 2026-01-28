@@ -1,4 +1,4 @@
-## 📝 Mini Complaint Box – Full Stack Project
+## 📝 Complaint Box – Mini Full Stack Project
 
 A simple "Full-stack web application" where users can register, log in, submit complaints, and an admin can view all complaints.
 This project is built for learning full-stack development using Flask and MySQL.
